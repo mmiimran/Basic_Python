@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/mmiimran/https://github.com/mmiimran/Basic_Python/blob/main/assets/basic_python.png)
+![Github Banner](https://github.com/mmiimran/Basic_Python/blob/main/assets/basic_python.png)
 
 <table align="center">
   <thead align="center">
