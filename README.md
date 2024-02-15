@@ -27,8 +27,8 @@
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/4.Escape_Sequence_in_python" target="_blank">Escape Sequences</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
-      <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
+      <td>Escape sequences in Python are special characters preceded by a backslash () used to represent challenging characters directly in code. Common ones include newline (\n), tab (\t), carriage return (\r), backslash (), single quote ('), and double quote (").</td>
+      <td>\n, \t, \r,(')(") etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/5.If_Statement" target="_blank">If Statement</a></td>
