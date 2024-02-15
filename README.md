@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/1.Variable%20and%20Operators" target="_blank">Variables and Operators</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>In Python, variables store data values upon assignment, accommodating diverse data types without explicit type declarations. Operators, symbolically applied, execute operations on operands.</td>
       <td>Variable, Arithmetic Operator, Comparison Operator, Logical Operator, Assignment Operator, Bitwise Operator, 'in' Operator, 'not in' Operator,'is' Operator, 'is not' Operator, Operator Precedence</td>
     </tr>
     <tr>
