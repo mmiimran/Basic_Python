@@ -32,13 +32,13 @@
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/5.If_Statement" target="_blank">If Statement</a></td>
-      <td>The "if" statement in Python executes code only if a condition is true, allowing program flow control. If true, the following code block runs; otherwise, it's skipped. "elif" and "else" handle alternative conditions or fallback action.</td>
+      <td>The "if" statement in Python executes code only if a condition is true, allowing program flow control. If true, the following code block runs; otherwise, it's skipped. "elif" and "else" handle alternative conditions or fallback actions.</td>
       <td>Nested If, User Input</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/6.Indentation" target="_blank">Indentation</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
-      <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
+      <td>Indentation in Python denotes a line's belonging to a specific block or scope, crucial for structure and hierarchy. It replaces traditional braces, ensuring consistency. Incorrect indentation leads to syntax or logical errors.</td>
+      <td>Scope of the code.</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/7.If_Else_Statement" target="_blank">If Else Statement</a></td>
