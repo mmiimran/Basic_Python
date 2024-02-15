@@ -57,32 +57,33 @@
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/10.While_loop" target="_blank">While Loop</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>A "while" loop in Python is used to repeatedly execute a block of code as long as a specified condition is true. It continues to execute the block of code until the condition evaluates to false. </td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/11.Range" target="_blank">Range</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>In Python, the range() function is used to generate a sequence of numbers. It's often used with loops to iterate a specific number of times. </td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/12.For_loop" target="_blank">For Loop</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>In Python, a "for" loop is used to iterate over a sequence (such as a list, tuple, string, or range) or any iterable object. It executes a block of code for each item in the sequence.</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/13.Break_and_Continue" target="_blank">Break And Continue</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>In Python, "break" ends a loop prematurely when a condition is met, while "continue" skips the rest of the code in the current iteration and moves to the next one.</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/14.Pass" target="_blank">Pass Statement</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>In Python, "pass" is a placeholder statement that does nothing. It's used when a statement is syntactically required but no action is needed.</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/15.Array" target="_blank">Array</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>
+In Python, arrays are implemented using lists, which are dynamic, ordered collections allowing for easy access and modification of elements. They can store items of different types and are commonly used for various collections.</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
     
