@@ -16,8 +16,8 @@
     </tr>
     <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/2.Python_Type_Conversion" target="_blank">Type Conversion</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
-      <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
+      <td>In Python, type conversion means changing data from one type to another using functions like int(), float(), str(), list(), tuple(), dict(), etc. It's crucial for handling different data types and formatting. Python makes it easy with methods for converting between types, allowing flexible data manipulation and formatting.</td>
+      <td>Implicit type conversion,Explicit type conversion</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/3.Input_and_output" target="_blank">Input and Output</a></td>
