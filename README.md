@@ -15,32 +15,32 @@
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/1.Variable%20and%20Operators" target="_blank">Type Conversion</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/2.Python_Type_Conversion" target="_blank">Type Conversion</a></td>
       <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/1.Variable%20and%20Operators" target="_blank">Input and Output</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/3.Input_and_output" target="_blank">Input and Output</a></td>
       <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/1.Variable%20and%20Operators" target="_blank">Escape Sequences</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/4.Escape_Sequence_in_python" target="_blank">Escape Sequences</a></td>
       <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/1.Variable%20and%20Operators" target="_blank">If Statement</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/5.If_Statement" target="_blank">If Statement</a></td>
       <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/1.Variable%20and%20Operators" target="_blank">Indentation</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/6.Indentation" target="_blank">Indentation</a></td>
       <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/1.Variable%20and%20Operators" target="_blank">If Else Statement</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/7.If_Else_Statement" target="_blank">If Else Statement</a></td>
       <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
