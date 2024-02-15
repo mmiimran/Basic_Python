@@ -86,6 +86,14 @@
 In Python, arrays are implemented using lists, which are dynamic, ordered collections allowing for easy access and modification of elements. They can store items of different types and are commonly used for various collections.</td>
       <td>1D array, Pop method, Reverse method, insert method, extend method, Index method, etc</td>
     </tr>
+
+    <tr>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/15.Array" target="_blank">Array</a></td>
+      <td>
+In Python, arrays are implemented using lists, which are dynamic, ordered collections allowing for easy access and modification of elements. They can store items of different types and are commonly used for various collections.</td>
+      <td>1D array, Pop method, Reverse method, insert method, extend method, Index method, etc</td>
+    </tr>
+    
     
    
   </tbody>
