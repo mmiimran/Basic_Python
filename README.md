@@ -32,8 +32,8 @@
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/5.If_Statement" target="_blank">If Statement</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
-      <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
+      <td>The "if" statement in Python executes code only if a condition is true, allowing program flow control. If true, the following code block runs; otherwise, it's skipped. "elif" and "else" handle alternative conditions or fallback action.</td>
+      <td>Nested If, User Input</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/6.Indentation" target="_blank">Indentation</a></td>
