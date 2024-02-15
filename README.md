@@ -37,22 +37,22 @@
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/6.Indentation" target="_blank">Indentation</a></td>
-      <td>Indentation in Python denotes a line's belonging to a specific block or scope, crucial for structure and hierarchy. It replaces traditional braces, ensuring consistency. Incorrect indentation leads to syntax or logical errors.</td>
+      <td>Indentation in Python denotes a line belonging to a specific block or scope, crucial for structure and hierarchy. It replaces traditional braces, ensuring consistency. Incorrect indentation leads to syntax or logical errors.</td>
       <td>Scope of the code.</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/7.If_Else_Statement" target="_blank">If Else Statement</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>The "if-else" statement in Python executes one block of code if a condition is true, and another block if it's false, enabling branching logic</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/8.If_elif_statement" target="_blank">If Elif Statement</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>The "if-elif-else" statement in Python checks multiple conditions in sequence. It starts with "if," followed by "elif" for additional checks, and "else" as an optional fallback. The first true condition's block executes, or the "else" block if none match. It's used for handling multiple exclusive conditions.</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/9.If_elif_else_statement" target="_blank">If Elif Else Statemeant</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
+      <td>The "if-elif-else" statement in Python handles multiple conditions, starting with "if," followed by "elif," and optionally ending with "else." It executes the first true condition's block or the "else" block if none match, enabling diverse scenario handling.</td>
       <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
     </tr>
      <tr>
