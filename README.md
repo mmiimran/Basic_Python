@@ -22,8 +22,8 @@
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/3.Input_and_output" target="_blank">Input and Output</a></td>
-      <td>We have discussed different built-in-data types supported by Python. We also looked at basic Python functions, libraries, and modules(collections module)</td>
-      <td>Numeric, Boolean, Sequences, Membership, identity, and logical operations, Dictionaries, sets, immutable sets, etc</td>
+      <td>Input and output in Python involve receiving data from the user and displaying information to the user, respectively.</td>
+      <td>Input, Output</td>
     </tr>
      <tr>
       <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/4.Escape_Sequence_in_python" target="_blank">Escape Sequences</a></td>
