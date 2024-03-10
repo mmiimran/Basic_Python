@@ -112,28 +112,28 @@ In Python, arrays are implemented using lists, which are dynamic, ordered collec
       <td>Variable, Arithmetic Operator, Comparison Operator, Logical Operator, Assignment Operator, Bitwise Operator, 'in' Operator, 'not in' Operator,'is' Operator, 'is not' Operator, Operator Precedence</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/2.Python_Type_Conversion" target="_blank">17.Numpy 1D Linspace Function</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/17.Numpy_1D_linspace_function" target="_blank">17.Numpy 1D Linspace Function</a></td>
       <td>In Python, type conversion means changing data from one type to another using functions like int(), float(), str(), list(), tuple(), dict(), etc. It's crucial for handling different data types and formatting. Python makes it easy with methods for converting between types, allowing flexible data manipulation and formatting.</td>
       <td>Implicit type conversion,
         Explicit type conversion</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/3.Input_and_output" target="_blank">18.Numpy 1D Logspace Function</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/18.Numpy_1D_logspace_function" target="_blank">18.Numpy 1D Logspace Function</a></td>
       <td>Input and output in Python involve receiving data from the user and displaying information to the user, respectively.</td>
       <td>Input, Output</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/4.Escape_Sequence_in_python" target="_blank">19.Numpy 1D arange Function</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/19.Numpy_1D_arange_function" target="_blank">19.Numpy 1D arange Function</a></td>
       <td>Escape sequences in Python are special characters preceded by a backslash () used to represent challenging characters directly in code. Common ones include newline (\n), tab (\t), carriage return (\r), backslash (), single quote ('), and double quote (").</td>
       <td>\n, \t, \r,(')(") etc</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/5.If_Statement" target="_blank">20.Numpy 1D zeros Function</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/20.Numpy_1D_zeros_function" target="_blank">20.Numpy 1D zeros Function</a></td>
       <td>The "if" statement in Python executes code only if a condition is true, allowing program flow control. If true, the following code block runs; otherwise, it's skipped. "elif" and "else" handle alternative conditions or fallback actions.</td>
       <td>Nested If, User Input</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/6.Indentation" target="_blank">21.Numpy_1D_ones_Function</a></td>
+      <td><a href="https://github.com/mmiimran/Basic_Python/tree/main/core_python/21.Numpy_1D_ones_function" target="_blank">21.Numpy_1D_ones_Function</a></td>
       <td>Indentation in Python denotes a line belonging to a specific block or scope, crucial for structure and hierarchy. It replaces traditional braces, ensuring consistency. Incorrect indentation leads to syntax or logical errors.</td>
       <td>Scope of the code.</td>
     </tr>
