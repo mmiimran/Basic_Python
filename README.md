@@ -1,5 +1,6 @@
 ![Github Banner](https://github.com/mmiimran/Basic_Python/blob/main/assets/basic_python.png)
 
+<hr>
 <details>
   <summary><span style="color: blue; background-color: yellow;">First Phase. Click to see the details of Python code</span></summary>
  <table align="center">
