@@ -48,7 +48,7 @@ print(stu_roll[3])
 print(stu_roll[4])
 
 # Creating a 1D array with strings using the array function from numpy (Example 5)
-stu_roll = numpy.array(['Rahul', 'Sonam', 'Raj', 'Rani', 'Sumit'])
+stu_roll = numpy.array(['Imran', 'Mejbah', 'Raju', 'Mina', 'Shakil'])
 print(stu_roll)
 print(stu_roll.dtype)
 print(stu_roll[0])
