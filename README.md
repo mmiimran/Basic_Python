@@ -1,6 +1,8 @@
 ![Github Banner](https://github.com/mmiimran/Basic_Python/blob/main/assets/basic_python.png)
 
-<table align="center">
+<details>
+  <summary>First Phase.Click and see the details of python code</summary>
+ <table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>Topic</b></td>
@@ -98,3 +100,5 @@ In Python, arrays are implemented using lists, which are dynamic, ordered collec
    
   </tbody>
 </table>
+</details>
+
