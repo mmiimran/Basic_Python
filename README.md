@@ -2,7 +2,7 @@
 
 <hr>
 <details>
-  <summary><span style="color: blue; background-color: yellow;">First Phase. Click to see the details of Python code</span></summary>
+  <summary><span style="color: blue; background-color: yellow;">First Section. Click to see the details of Python code.</span></summary>
  <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -97,7 +97,7 @@ In Python, arrays are implemented using lists, which are dynamic, ordered collec
 <hr>
 
 <details>
-  <summary><span style="color: blue; background-color: yellow;">Second Phase. Click to see the details of Python code</span></summary>
+  <summary><span style="color: blue; background-color: yellow;">Second Section. Click to see the details of Python code.</span></summary>
  <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -192,7 +192,7 @@ In Python, arrays are implemented using lists, which are dynamic, ordered collec
 <hr>
 
 <details>
-  <summary><span style="color: blue; background-color: yellow;">Third Phase. Click to see the details of Python code</span></summary>
+  <summary><span style="color: blue; background-color: yellow;">Third Section. Click to see the details of Python code.</span></summary>
  <table align="center">
   <thead align="center">
     <tr border: none;>
