@@ -8,8 +8,8 @@ c = (10,)           # for creating single element tuple write comma
 
 # Creating Tuple with Multiple element
 d = (10, 20, 30, 40)
-e = (10, 20, -50, 21.3, 'GeekyShows')
-f = 10, 20, -50, 21.3, 'GeekyShows'   # tuple e and f are same
+e = (10, 20, -50, 21.3, 'imranShows')
+f = 10, 20, -50, 21.3, 'imranShows'   # tuple e and f are same
 
 print()
 # Access using index
