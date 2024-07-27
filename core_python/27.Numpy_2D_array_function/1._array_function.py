@@ -42,7 +42,7 @@ print(a[1][3])
 
 # 2D Array with String using array Function Numpy Example 4
 import numpy
-a = numpy.array([['Rahul', 'Sonam', 'Raj', 'Rani'], ['Dell', 'Asus', 'Lenovo', 'HP']])
+a = numpy.array([['imran', 'mamun', 'Raja', 'Rani'], ['Dell', 'Asus', 'Lenovo', 'HP']])
 print(a)
 print(a.dtype)
 print(a[0][0])
