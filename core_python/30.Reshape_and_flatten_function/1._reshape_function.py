@@ -1,42 +1,35 @@
-# 2D Array using ones Function Numpy
+# Import all functions from the numpy library
 from numpy import *
 
-# Creating a 2D numpy array 'a' filled with ones and integer data type
-a = ones((3,2), dtype=int)
+# 1D to 2D example
+# Create a 1D array 'a' with 6 elements
+a = array([1, 2, 3, 4, 5, 6])
+# Reshape the 1D array 'a' into a 2D array with 2 rows and 3 columns
+b = reshape(a, (2, 3))
+# Print the original 1D array
+print(a)
+# Print the reshaped 2D array
+print(b)
+print()  # Print an empty line for better readability
 
-# Printing Individual Elements
-print("**** Accessing Individual Elements ****")
-print(a[0][0])
-print(a[0][1])
-print(a[1][0])
-print(a[1][1])
-print(a[2][0])
-print(a[2][1])
-print()
+# 1D to 3D example
+# Create a 1D array 'c' with 12 elements
+c = array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+# Reshape the 1D array 'c' into a 3D array with 2 blocks, 3 rows, and 2 columns
+d = reshape(c, (2, 3, 2))
+# Print the original 1D array
+print(c)
+# Print the reshaped 3D array
+print(d)
+print()  # Print an empty line for better readability
 
-# Accessing by For Loop
-print("**** Accessing by For Loop ****")
-for r in a:
-    for c in r:
-        print(c)
-    print()
+# 2D to 1D example
+# Create a 2D array 'e' with 2 rows and 3 columns
+e = array([[1, 2, 3], [4, 5, 6]])
+# Reshape the 2D array 'e' into a 1D array with 6 elements
+f = reshape(e, (6))
+# Print the original 2D array
+print(e)
+# Print the reshaped 1D array
+print(f)
 
-# Accessing by For Loop with Index
-print("**** Accessing by For Loop with Index ****")    
-n = len(a)
-for i in range(n):
-    for j in range(len(a[i])):
-        print('index',i,j,"=",a[i][j])
-    print()
-
-# Accessing by While Loop
-print("**** Accessing by While Loop ****")    
-n = len(a)
-i = 0
-while i < n :
-    j = 0
-    while j < len(a[i]):
-        print('index',i,j,"=",a[i][j])
-        j += 1
-    i += 1
-    print()
